@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+<img src="images/1.png">
+<img src="images/2.png">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
